@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [shirudo](https://github.com/Pranay-Tej/shirudo) and [react-store](https://github.com/Pranay-Tej/react-store)
+- 🌱 I’m currently learning Svelte & SvelteKit
+- 🔭 I’m currently working on [svelte-101](https://github.com/Pranay-Tej/svelte-101)
 
 <!--
 **Pranay-Tej/Pranay-Tej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
